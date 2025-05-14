@@ -23,7 +23,7 @@ A clean and responsive desktop application to **encode** text to Morse code and 
 ### Run it
 
 ```bash
-git clone https://github.com/your-username/morse-code-translator.git
+git clone https://github.com/Anantram-developer/morse-code-translator.git
 cd morse-code-translator
 python morse_gui.py
 ```
